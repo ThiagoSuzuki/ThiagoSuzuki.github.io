@@ -1,8 +1,9 @@
-## Portfólio criado utilizando Bootstrap Framework v5.0.2
+## Portfólio
 
-Neste repositório ficarão organizados todos os projetos mais relevantes que pratiquei do meu Github. Muito dos conteúdos e documentações aqui serão atualizados e melhorados com o tempo.
+Neste repositório ficarão listados todos os projetos mais relevantes que criei e subi no meu Github e Netlify.
+Muito dos conteúdos e documentações aqui serão atualizados com o tempo.
 
-### Versão Desktop
+### Versão Web
 
 ![versão desktop](/preview_desktop.png)
 
