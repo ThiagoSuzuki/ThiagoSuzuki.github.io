@@ -2,7 +2,7 @@
 
 Neste repositório ficarão listados todos os projetos mais relevantes que criei e subi no meu Github e Netlify.
 Muito dos conteúdos e documentações aqui serão atualizados com o tempo.
-Página do portfólio foi desenvolvido usando framework front-end Bootstrap utilizando o tema Lux como base.
+A Página do portfólio foi desenvolvido usando framework front-end Bootstrap utilizando o tema Lux como base.
 
 ### Versão Web
 
